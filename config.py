@@ -1,6 +1,8 @@
 import main
 import serial
 
+print("==============iidx串口助手==============")
+print("ver 0.1 alpha")
 print("================开始配置================")
 add=str(input("请输入S tools api连接地址，若本地请填127.0.0.1："))
 port=int(input("请输入连接端口："))
